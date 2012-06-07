@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2007/04/win-in-china/
-.. published_on: 2007-04-04 03:44:41.000002
-
-赢在中国
-============
+:url: http://www.adieu.me/blog/2007/04/win-in-china/
+:published_on: 2007-04-04 03:44:41.000002
+:slug: win-in-china
+:title: 赢在中国
 
 央视的节目我很少看。偶然的机会，我看到了赢在中国。
 

@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2007/04/teach-children-to-use-computer/
-.. published_on: 2007-04-05 13:35:12.000003
-
-教孩子用电脑
-==================
+:title: 教孩子用电脑
+:slug: teach-children-to-use-computer
+:url: http://www.adieu.me/blog/2007/04/teach-children-to-use-computer/
+:published_on: 2007-04-05 13:35:12.000003
 
 我表妹今年10岁，差不多到了学习电脑使用的年纪。舅妈为这个事情很犯愁。给她买么，又怕她不好好上课，每天用电脑还容易把眼睛弄坏。不买么，现在已经是IT时代，怕女儿在电脑这个基本技能上落后于其他的孩子。
 

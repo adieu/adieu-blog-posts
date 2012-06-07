@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2008/05/upgrade-wordpress/
-.. published_on: 2008-05-03 14:46:37.000005
-
-升级Wordpress到2.5.1
-=======================
+:title: 升级Wordpress到2.5.1
+:slug: upgrade-wordpress
+:url: http://www.adieu.me/blog/2008/05/upgrade-wordpress/
+:published_on: 2008-05-03 14:46:37.000005
 
 许久没有写博了。也许久没有上过自己的博客了。
 

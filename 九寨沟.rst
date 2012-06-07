@@ -1,7 +1,6 @@
-.. url: http://www.adieu.me/blog/2007/04/九寨沟/
-.. published_on: 2007-04-28 02:43:09.000005
-
-九寨沟
-=========
+:title: 九寨沟
+:slug: 九寨沟
+:url: http://www.adieu.me/blog/2007/04/九寨沟/
+:published_on: 2007-04-28 02:43:09.000005
 
 九寨沟真是太漂亮了，回来之后上照片。

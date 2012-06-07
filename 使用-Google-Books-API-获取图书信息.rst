@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2010/07/使用-Google-Books-API-获取图书信息/
-.. published_on: 2010-07-19 15:05:09
-
-使用 Google Books API 获取图书信息
-==========================================
+:title: 使用 Google Books API 获取图书信息
+:slug: 使用-Google-Books-API-获取图书信息
+:url: http://www.adieu.me/blog/2010/07/使用-Google-Books-API-获取图书信息/
+:published_on: 2010-07-19 15:05:09
 
 Google Books 索引了大量的图书信息。当我们在开发和图书有关的应用时，可以使用开放的 `Google Books API`_ 方便的获取图书信息。
 

@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2007/07/obstinate-and-persist/
-.. published_on: 2007-07-10 00:43:55.000001
-
-固执和坚持
-===============
+:title: 固执和坚持
+:slug: obstinate-and-persist
+:url: http://www.adieu.me/blog/2007/07/obstinate-and-persist/
+:published_on: 2007-07-10 00:43:55.000001
 
 固执和坚持之间的区别可能只在一念之间。
 

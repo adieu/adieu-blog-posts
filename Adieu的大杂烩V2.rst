@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2010/06/Adieu的大杂烩V2/
-.. published_on: 2010-06-04 07:20:54.961602
-
-Adieu的大杂烩V2
-===================
+:title: Adieu的大杂烩V2
+:slug: Adieu的大杂烩V2
+:url: http://www.adieu.me/blog/2010/06/Adieu的大杂烩V2/
+:published_on: 2010-06-04 07:20:54.961602
 
 新界面，新架构，新内容。
 

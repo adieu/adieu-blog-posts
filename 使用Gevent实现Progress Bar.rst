@@ -1,5 +1,7 @@
-使用Gevent实现Progress Bar
-==============================
+:title: 使用Gevent实现Progress Bar
+:slug: 使用gevent实现progress-bar
+:url: http://www.adieu.me/blog/2012/02/使用gevent实现progress-bar/
+:published_on: 2012-02-13 01:21:00
 
 周末有时间，打算给 `xunlei <https://github.com/adieu/xunlei>`_ 实现下载时的Progress Bar，以便用户在远程服务器上下载时可以随时了解当前下载的进度以及下载速度。
 

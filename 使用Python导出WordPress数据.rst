@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2010/12/使用Python导出WordPress数据/
-.. published_on: 2010-12-16 10:29:12.766822
-
-使用Python导出WordPress数据
-=================================
+:title: 使用Python导出WordPress数据
+:slug: 使用Python导出WordPress数据
+:url: http://www.adieu.me/blog/2010/12//
+:published_on: 2010-12-16 10:29:12.766822
 
 在进行Blog迁移的时候，需要从之前的WordPress系统中导出以往写的博文，导入新系统中。WordPress本身提供了信息导出的功能，但是使用xmlrpc接口来进行博文导出将会更加方便。
 

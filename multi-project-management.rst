@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2007/07/multi-project-management/
-.. published_on: 2007-07-19 01:39:36.000003
-
-多项目管理
-===============
+:title: 多项目管理
+:slug: multi-project-management
+:url: http://www.adieu.me/blog/2007/07/multi-project-management/
+:published_on: 2007-07-19 01:39:36.000003
 
 管一个项目已经够折腾人的了，每天不断的检查进度，协调资源，制定策略，让人应接不暇。
 

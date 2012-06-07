@@ -1,7 +1,6 @@
-.. url: http://www.adieu.me/blog/2007/05/知易行难/
-.. published_on: 2007-05-21 01:28:10
-
-知易行难
-============
+:title: 知易行难
+:slug: 知易行难
+:url: http://www.adieu.me/blog/2007/05/知易行难/
+:published_on: 2007-05-21 01:28:10
 
 难，实在是难。不知何时才能变成知行合一。

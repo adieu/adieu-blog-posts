@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2007/03/keep-doing/
-.. published_on: 2007-03-15 01:19:56.000003
-
-坚持
-======
+:title: 坚持
+:slug: keep-doing
+:url: http://www.adieu.me/blog/2007/03/keep-doing/
+:published_on: 2007-03-15 01:19:56.000003
 
 很喜欢一句对成功的简单定义：成功就是坚持不懈的做一件简单的事情。
 

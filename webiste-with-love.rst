@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2007/03/webiste-with-love/
-.. published_on: 2007-03-20 05:33:25.000001
-
-有感情的网站
-==================
+:title: 有感情的网站
+:slug: webiste-with-love
+:url: http://www.adieu.me/blog/2007/03/webiste-with-love/
+:published_on: 2007-03-20 05:33:25.000001
 
 我一直认为网站也好，企业也好，都是管理者个人意志的表现。什么类型的人就会做什么类型的网站。程序员的网站往往是设计呆板的，注重内容的。女孩子的网站往往是是细腻的，漂亮的。从事金融行业的人做的网站往往是中规中矩，讲求格式的。
 

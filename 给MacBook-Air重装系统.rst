@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2010/07/给MacBook-Air重装系统/
-.. published_on: 2010-07-29 09:25:19
-
-给MacBook Air重装系统
-==========================
+:title: 给MacBook Air重装系统
+:slug: 给MacBook-Air重装系统
+:url: http://www.adieu.me/blog/2010/07/给MacBook-Air重装系统/
+:published_on: 2010-07-29 09:25:19
 
 前两天我的MacBook Air的硬盘开始报错，看来是大限将至。只能考虑换一块新硬盘。把机器拿到Apple Store问了一下，答复过保的MacBook Air换一块硬盘要2200。为了降低成本，决定自己动手换硬盘。
 

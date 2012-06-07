@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2007/04/life-attitude/
-.. published_on: 2007-04-12 04:27:50.000003
-
-生活的态度
-===============
+:title: 生活的态度
+:slug: life-attitude
+:url: http://www.adieu.me/blog/2007/04/life-attitude/
+:published_on: 2007-04-12 04:27:50.000003
 
 最近有许多朋友向我抱怨工作不顺心的事情。虽然原因各不相同，但是大家的结论惊人的相似：工作太没劲了。
 

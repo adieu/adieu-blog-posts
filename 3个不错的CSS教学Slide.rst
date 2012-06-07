@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2010/10/3个不错的CSS教学Slide/
-.. published_on: 2010-10-26 11:37:01
-
-3个不错的CSS教学Slide
-===========================
+:title: 3个不错的CSS教学Slide
+:slug: 3个不错的CSS教学Slide
+:url: http://www.adieu.me/blog/2010/10/3个不错的CSS教学Slide/
+:published_on: 2010-10-26 11:37:01
 
 都来自于 `http://css.maxdesign.com.au <http://css.maxdesign.com.au>`_
 

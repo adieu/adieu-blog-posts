@@ -1,8 +1,8 @@
-.. url: http://www.adieu.me/blog/2007/04/eight-habits/
-.. published_on: 2007-04-02 02:52:16
+:title: [Weekend Project]#4 八个好习惯
+:slug: eight-habits
+:url: http://www.adieu.me/blog/2007/04/eight-habits/
+:published_on: 2007-04-02 02:52:16
 
-[Weekend Project]#4 八个好习惯
-===================================
 
 在上期的Weekend  Project中，我设定了自己的人生目标。如果按照我所推崇的目标->计划->执行->;检验这样的模式来实现的话，设定目标的下一步应当是制定计划。但是当我在为人生制定计划的时候，却遇到了困难。
 

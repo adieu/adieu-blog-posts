@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2007/04/something-about-children/
-.. published_on: 2007-04-19 03:06:37.000003
-
-关于孩子的遐思
-=====================
+:title: 关于孩子的遐思
+:slug: something-about-children
+:url: http://www.adieu.me/blog/2007/04/something-about-children/
+:published_on: 2007-04-19 03:06:37.000003
 
 我承认我在孩子这个问题上有些犹豫。对于我来说，结婚后不要小孩应该也是一件可以接受的事情。
 

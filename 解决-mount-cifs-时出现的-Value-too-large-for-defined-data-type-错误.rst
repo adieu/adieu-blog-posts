@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2010/11/解决-mount-cifs-时出现的-Value-too-large-for-defined-data-type-错误/
-.. published_on: 2010-11-17 15:23:12
-
-解决 mount cifs 时出现的 Value too large for defined data type 错误
-===========================================================================
+:title: 解决 mount cifs 时出现的 Value too large for defined data type 错误
+:slug: 解决-mount-cifs-时出现的-Value-too-large-for-defined-data-type-错误
+:url: http://www.adieu.me/blog/2010/11/解决-mount-cifs-时出现的-Value-too-large-for-defined-data-type-错误/
+:published_on: 2010-11-17 15:23:12
 
 今天遇到的一个问题，记录一下，以便日后备查。
 

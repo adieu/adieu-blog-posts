@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2007/04/people-and-resource/
-.. published_on: 2007-04-21 05:53:31.000005
-
-人与资源
-============
+:title: 人与资源
+:slug: people-and-resource
+:url: http://www.adieu.me/blog/2007/04/people-and-resource/
+:published_on: 2007-04-21 05:53:31.000005
 
 在一个人职业发展的旅途中，可以简单的分为三个阶段。
 

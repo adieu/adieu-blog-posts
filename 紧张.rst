@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2007/04/紧张/
-.. published_on: 2007-04-30 05:59:58
-
-紧张
-======
+:title: 紧张
+:slug: 紧张
+:url: http://www.adieu.me/blog/2007/04/紧张/
+:published_on: 2007-04-30 05:59:58
 
 明天有一个蛮正式的见面活动，一向放松的我也有了点点紧张的情绪
 

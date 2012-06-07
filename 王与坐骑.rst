@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2007/05/王与坐骑/
-.. published_on: 2007-05-27 01:45:51.000006
-
-王与坐骑
-============
+:title: 王与坐骑
+:slug: 王与坐骑
+:url: http://www.adieu.me/blog/2007/05/王与坐骑/
+:published_on: 2007-05-27 01:45:51.000006
 
 从Bleach看来的
 

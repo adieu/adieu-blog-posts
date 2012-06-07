@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2007/07/future-internet/
-.. published_on: 2007-07-10 23:23:08.000001
-
-将来的互联网
-==================
+:title: 将来的互联网
+:slug: future-internet
+:url: http://www.adieu.me/blog/2007/07/future-internet/
+:published_on: 2007-07-10 23:23:08.000001
 
 最近和一朋友聊互联网和互联网项目，朋友最后给我出了个难题，希望我说说互联网将来的发展，一时让我不知道怎么回答。
 

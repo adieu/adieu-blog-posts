@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2007/03/what-you-can-do-on-internet/
-.. published_on: 2007-03-13 00:46:11.000001
-
-上网干什么
-===============
+:title: 上网干什么
+:slug: what-you-can-do-on-internet
+:url: http://www.adieu.me/blog/2007/03/what-you-can-do-on-internet/
+:published_on: 2007-03-13 00:46:11.000001
 
 网络似乎已经完全融入我的生活了。我在网上收发email，写blog，和朋友聊天，查询资料，玩游戏……如果没人打扰的话，我可以在网上待一天而不觉得疲倦。但是我最近越来越感觉到，使用互联网应该要有节制，不然很容易被信息淹没。
 

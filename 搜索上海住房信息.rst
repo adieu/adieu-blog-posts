@@ -1,8 +1,8 @@
-.. url: http://www.adieu.me/blog/2007/06/搜索上海住房信息/
-.. published_on: 2007-06-08 03:00:27.000004
-
-搜索上海住房信息
-========================
+:title: 搜索上海住房信息
+:slug: 搜索上海住房信息
+:url: http://www.adieu.me/blog/2007/06/搜索上海住房信息/
+:published_on: 2007-06-08 03:00:27.000004
 
 请用"keyword site:http://newhouse.sh.soufun.com/house/" 为关键词在Google搜索，就可以在搜房网的数据库中查找含有某个关键词的上海住房信息。
+
 记得用自己的关键词来替换keyword哦。

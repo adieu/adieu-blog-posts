@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2011/04/Blog系统更新/
-.. published_on: 2011-04-08 08:38:00.804053
-
-Blog系统更新
-================
+:title: Blog系统更新
+:slug: Blog系统更新
+:url: http://www.adieu.me/blog/2011/04/Blog系统更新/
+:published_on: 2011-04-08 08:38:00.804053
 
 Blog系统使用的是 `allbuttonspressed <http://www.allbuttonspressed.com/projects/allbuttonspressed>`_ 。这是一款运行在Google Appengine上的开源的简易CMS系统。之前根据自己的需要修改了部分源代码，我部署的版本则停留在了去年5月份左右。这两天花了一些时间将Blog系统更新到最新的版本。
 

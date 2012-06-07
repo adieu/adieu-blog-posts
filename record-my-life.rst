@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2007/03/record-my-life/
-.. published_on: 2007-03-14 01:41:12.000002
-
-Record My Life
-==============
+:title: Record My Life
+:slug: record-my-life
+:url: http://www.adieu.me/blog/2007/03/record-my-life/
+:published_on: 2007-03-14 01:41:12.000002
 
 人的一生是短暂的。对绝大部分的人来说，人生就像白驹过隙。当他们离开这个世界之后，留下的东西很少很少。但是可以感到，在这个自我意识越来越浓的时代，大家都想留下点什么。
 

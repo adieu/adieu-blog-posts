@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2007/03/working-hours/
-.. published_on: 2007-03-16 01:36:03.000004
-
-上班时间
-============
+:title: 上班时间
+:slug: working-hours
+:url: http://www.adieu.me/blog/2007/03/working-hours/
+:published_on: 2007-03-16 01:36:03.000004
 
 抱歉最近的几篇post都比较水。主要最近工作上的事情实在太多了，多到了让我没法去好好思考脑子里的问题，多到了让我没法好好在文章中表达我的想法。如果不是因为能够看到头了，我想最近我的心情肯定会很沮丧。
 

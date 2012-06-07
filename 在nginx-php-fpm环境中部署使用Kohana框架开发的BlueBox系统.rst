@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2011/01/在nginx-php-fpm环境中部署使用Kohana框架开发的BlueBox系统/
-.. published_on: 2011-01-07 06:40:22
-
-在nginx+php-fpm环境中部署使用Kohana框架开发的BlueBox系统
-=======================================================================
+:title: 在nginx+php-fpm环境中部署使用Kohana框架开发的BlueBox系统
+:slug: 在nginx-php-fpm环境中部署使用Kohana框架开发的BlueBox系统
+:url: http://www.adieu.me/blog/2011/01/在nginx-php-fpm环境中部署使用Kohana框架开发的BlueBox系统/
+:published_on: 2011-01-07 06:40:22
 
 前两天想研究一下BlueBox这个新的FreeSwitch网页管理客户端系统，花了一点时间部署了一套。期间遇到了Nginx环境和Kohana框架兼容的问题，以下是遇到的问题以及解决的方案。
 

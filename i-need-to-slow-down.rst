@@ -1,8 +1,7 @@
-.. url: http://www.adieu.me/blog/2007/05/i-need-to-slow-down/
-.. published_on: 2007-05-08 02:58:42.000001
-
-[Habbit]#6 我想我需要走慢点
-===================================
+:title: [Habbit]#6 我想我需要走慢点
+:slug: i-need-to-slow-down
+:url: http://www.adieu.me/blog/2007/05/i-need-to-slow-down/
+:published_on: 2007-05-08 02:58:42.000001
 
 本来今天打算写另外一个话题，但是既然事先决定了周一要写Habbit系列，那还是先把写好的更新存为草稿明天再发吧。
 
