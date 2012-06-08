@@ -39,7 +39,7 @@ Action
 - `Feedburner API <http://www.feedburner.com/fb/a/developers/awapi>`_ 。使用Api可以从Feedburner获取订阅的信息。
 - `Technorati API <http://www.technorati.com/developers/api/>`_ 。看起来Technorati的API要复杂一些。
 - Google Analytics API。厄，竟然不存在。但是 `有人 <http://www.thinkingphp.org/2006/06/19/google-analytics-php-api-cakephp-model/>`_ 已经用模拟用户提交的方式，变相实现了部分API。
-- Technorati API的Python封装。有好几个，`这个 <www.myelin.co.nz/technorati_py/>`_ 看起来比较强大。
+- Technorati API的Python封装。有好几个，`这个 <http://www.myelin.co.nz/technorati_py/>`_ 看起来比较强大。
 - `RSS生成器 <http://www.dalkescientific.com/Python/PyRSS2Gen.html>`_ 。让我手动构造RSS，我可不干。
 - Python的TDD资料。这个很早就看过了。
 
