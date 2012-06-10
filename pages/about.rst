@@ -24,6 +24,6 @@ Other Sites
 
 You could find me on these websites:
 
-- `Google+ <https://plus.google.com/108589147270141754499>`_
+- `Google+ <https://plus.google.com/108589147270141754499?rel=author>`_
 - `Twitter <http://twitter.com/adieu>`_
 - `Github`_
