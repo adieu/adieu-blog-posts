@@ -6,7 +6,7 @@
    :height: 150
    :align: right
 
-I'm a web developer living in Shanghai, China. I have been involved in web development since 2007.
+Hi, this is Ivan Diao. I'm a web developer based in Shanghai, China and I have been involved in web development since 2007.
 
 I’m passionate about good open sourced projects and I like building websites using Python and Django as well as hosting them under Linux environment.
 
